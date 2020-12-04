@@ -1,0 +1,86 @@
+
+
+header {
+    background: #ffffff;
+    height: 80px;
+      text-align: center;
+      align-items: center;
+   
+
+}
+header, h6 {
+    color: #011412;
+
+}
+ .nav-item .active{
+    height: 80px;
+    color: #0ABF8C;
+    background-color: #f5f5f5;
+    text-align: center;
+    
+}
+
+
+.contenedorm {
+    background: #01455C;
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+}
+
+.card{
+    height: 110px;
+}
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body h4{
+
+    color:#80C2E5;
+
+}
+.card-body .activem{
+    color: #0ABF8C;
+}
+
+.card-body p { 
+    color:#C5D3D9;
+
+}
+
+ .activam{
+   width: 250px;
+   height: auto;
+   background:#0ABF8C; 
+   color: #f5f5f5;
+   font-size: 15px;
+}
+.tarjetam {
+   width: 250px;
+   height: auto;
+   background: rgba(156,217,200, .4);
+   color: #f5f5f5;
+   font-size: 15px;
+}
+ .btn {
+   width: 250px;
+   height: auto;
+   border: 3px dashed #0ABF8C;
+   border-radius: 10px;
+   color: #0ABF8C;
+   font-size: 15px;
+   display: flex;
+   justify-content: space-between;
+  
+}
+
+h6{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
